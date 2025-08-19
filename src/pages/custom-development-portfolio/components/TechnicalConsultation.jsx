@@ -171,7 +171,7 @@ const TechnicalConsultation = () => {
                   <div className="flex items-center space-x-3">
                     <Icon name="Mail" size={16} color="var(--color-primary)" />
                     <span className="text-sm text-muted-foreground">
-                      technical@dhis2chile.com
+                      technical@dhis2.cl
                     </span>
                   </div>
                   <div className="flex items-center space-x-3">

@@ -185,7 +185,7 @@ const DHIS2ImplementationServices = () => {
               <ul className="space-y-2 text-sm text-muted-foreground">
                 <li>Santiago, Chile</li>
                 <li>+56 2 XXXX XXXX</li>
-                <li>info@dhis2chile.cl</li>
+                <li>info@dhis2.cl</li>
                 <li>24/7 Support Available</li>
               </ul>
             </div>
