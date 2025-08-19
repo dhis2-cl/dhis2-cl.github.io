@@ -62,7 +62,7 @@ const FeaturedArticles = ({ currentLanguage }) => {
           id: 1,
           title: "Integrando DHIS2 con Sistemas de Salud Chilenos Heredados",
           excerpt: "Una guía completa para conectar sin problemas DHIS2 con sistemas de información de salud existentes en instalaciones de salud chilenas, abordando desafíos comunes de integración y proporcionando soluciones prácticas.",
-          author: "Dra. María González",
+          author: "PhD. Felipe Aguilera Millacura",
           authorRole: "Consultora Senior DHIS2",
           readTime: "12 min de lectura",
           publishDate: "15 de Agosto, 2025",

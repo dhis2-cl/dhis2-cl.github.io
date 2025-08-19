@@ -13,8 +13,8 @@ const CertificationsPartnerships = () => {
       date: '2021',
       level: 'Expert',
       description: 'Certificación oficial del equipo central de DHIS2 para implementación y desarrollo avanzado',
-      badge: 'https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=100&h=100&fit=crop',
-      members: ['María Elena Rodríguez', 'Carlos Mendoza', 'Ana Sofía Herrera'],
+      badge: 'https://cdn.prod.website-files.com/65172550b7da667da21f80ce/65e623ed80ddba2542dd2400_dhis2.png',
+      members: ['Felipe Aguilera Millacura','Juan Pablo Espinoza'],
       validity: 'Vigente hasta 2025'
     },
     {
@@ -24,7 +24,7 @@ const CertificationsPartnerships = () => {
       date: '2022',
       level: 'Organizational',
       description: 'Certificación en gestión de seguridad de la información para protección de datos sanitarios',
-      badge: 'https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=100&h=100&fit=crop',
+      badge: 'https://www.qassurance.com/wp-content/uploads/QAssurance-logos.png',
       members: ['Toda la organización'],
       validity: 'Vigente hasta 2025'
     },
@@ -35,19 +35,19 @@ const CertificationsPartnerships = () => {
       date: '2023',
       level: 'Technical',
       description: 'Especialización en estándares de interoperabilidad para sistemas de salud',
-      badge: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=100&h=100&fit=crop',
-      members: ['Roberto Silva', 'Carlos Mendoza'],
+      badge: 'https://media.licdn.com/dms/image/v2/D560BAQFSbrSThbxPgw/company-logo_100_100/company-logo_100_100/0/1694951088394/hl7_fhir_foundation_logo?e=1758758400&v=beta&t=eYi1c9h05Darx3gq05-273ZCy992eGbu6RPeZaNJSDU',
+      members: ['Felipe Aguilera Millacura'],
       validity: 'Vigente hasta 2026'
     },
     {
       id: 4,
-      name: 'AWS Solutions Architect',
-      issuer: 'Amazon Web Services',
+      name: 'Google cloud certified',
+      issuer: 'Google Cloud solutions',
       date: '2023',
       level: 'Professional',
-      description: 'Arquitectura de soluciones en la nube para sistemas de salud escalables',
-      badge: 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=100&h=100&fit=crop',
-      members: ['Carlos Mendoza'],
+      description: 'Google Cloud Engineer; DevOps; Cybersecurity; Kubernetes in Google Cloud.',
+      badge: 'https://ausum.cloud/wp-content/uploads/2024/04/0_r4wOvRFGy78MfMh4.png',
+      members: ['Felipe Aguilera Millacura'],
       validity: 'Vigente hasta 2026'
     }
   ];
@@ -57,7 +57,7 @@ const CertificationsPartnerships = () => {
       id: 1,
       name: 'DHIS2 Core Team',
       type: 'Socio Tecnológico Oficial',
-      logo: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=120&h=80&fit=crop',
+      logo: 'https://cdn.prod.website-files.com/65172550b7da667da21f80ce/65e623ed80ddba2542dd2400_dhis2.png',
       description: 'Reconocimiento como implementador oficial y contribuidor al ecosistema DHIS2 global',
       benefits: ['Acceso temprano a nuevas versiones', 'Soporte directo del equipo central', 'Participación en roadmap'],
       since: '2020'
@@ -66,7 +66,7 @@ const CertificationsPartnerships = () => {
       id: 2,
       name: 'Ministerio de Salud de Chile',
       type: 'Socio Gubernamental',
-      logo: 'https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=120&h=80&fit=crop',
+      logo: 'https://www.virginiogomez.cl/media/bases-datos/9/9.jpg',
       description: 'Colaboración estratégica para la transformación digital del sistema de salud chileno',
       benefits: ['Proyectos de implementación nacional', 'Desarrollo de estándares locales', 'Capacitación institucional'],
       since: '2020'
@@ -75,7 +75,7 @@ const CertificationsPartnerships = () => {
       id: 3,
       name: 'Organización Panamericana de la Salud',
       type: 'Socio Internacional',
-      logo: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=120&h=80&fit=crop',
+      logo: 'https://i0.wp.com/mepyd.gob.do/wp-content/uploads/2021/10/ops.png?w=1220&ssl=1',
       description: 'Apoyo en iniciativas regionales de fortalecimiento de sistemas de información sanitaria',
       benefits: ['Proyectos regionales', 'Intercambio de mejores prácticas', 'Financiamiento para innovación'],
       since: '2021'
@@ -84,7 +84,7 @@ const CertificationsPartnerships = () => {
       id: 4,
       name: 'Universidad de Chile - Facultad de Medicina',
       type: 'Socio Académico',
-      logo: 'https://images.unsplash.com/photo-1523050854058-8df90110c9d1?w=120&h=80&fit=crop',
+      logo: 'https://www.curriculumnacional.cl/estudiante/621/articles-31802_thumbnail.jpg',
       description: 'Colaboración en investigación y desarrollo de soluciones innovadoras en salud digital',
       benefits: ['Investigación conjunta', 'Programas de práctica', 'Desarrollo de talento'],
       since: '2022'
@@ -93,7 +93,7 @@ const CertificationsPartnerships = () => {
       id: 5,
       name: 'Colegio Médico de Chile',
       type: 'Socio Profesional',
-      logo: 'https://images.unsplash.com/photo-1551601651-2a8555f1a136?w=120&h=80&fit=crop',
+      logo: 'https://www.colegiomedico.cl/wp-content/uploads/2018/02/logo-.jpeg',
       description: 'Validación profesional y apoyo en la adopción de tecnologías por parte de médicos',
       benefits: ['Validación clínica', 'Programas de capacitación', 'Certificación profesional'],
       since: '2022'
@@ -103,7 +103,7 @@ const CertificationsPartnerships = () => {
   const businessRegistrations = [
     {
       name: 'Registro de Empresas de Chile',
-      number: 'RUT: 76.XXX.XXX-X',
+      number: 'RUT: 77.416.816-8',
       status: 'Activo',
       icon: 'Building'
     },

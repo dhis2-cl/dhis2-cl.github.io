@@ -8,19 +8,19 @@ const TeamProfiles = () => {
   const teamMembers = [
     {
       id: 1,
-      name: "Dr. María Elena Rodríguez",
-      position: "CEO & Fundadora",
-      avatar: "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=300&h=300&fit=crop&crop=face",
-      experience: "12 años en DHIS2",
+      name: "PhD Felipe Aguilera Millacura",
+      position: "CEO & Fundador",
+      avatar: "https://media.licdn.com/dms/image/v2/D4E03AQEpF5LNLO8e1w/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724180844863?e=1758758400&v=beta&t=AIkXZF_C_ankmwOGV0wZW6SzLsw0MANjh3b3Nhk7rpA",
+      experience: "5 años en DHIS2",
       certifications: ["DHIS2 Core Certified", "Public Health Informatics", "Project Management Professional"],
       expertise: ["Implementación DHIS2", "Sistemas de Salud Pública", "Gestión de Proyectos"],
       contributions: "Líder en la comunidad DHIS2 de América Latina, autora de 15+ publicaciones sobre informática sanitaria",
       conferences: ["DHIS2 Annual Conference 2023", "HL7 FHIR DevDays", "Latin American Health Informatics Summit"],
-      bio: `Pionera en la implementación de sistemas DHIS2 en Chile, con más de una década de experiencia transformando 
+      bio: `Pionero en la implementación de sistemas DHIS2 en Chile, con más de cinco años de experiencia transformando 
       sistemas de información sanitaria. Su visión estratégica ha posicionado a la empresa como líder regional en 
       soluciones de salud digital.`,
       location: "Santiago, Chile",
-      languages: ["Español", "Inglés", "Portugués"]
+      languages: ["Español", "Inglés"]
     },
     {
       id: 2,

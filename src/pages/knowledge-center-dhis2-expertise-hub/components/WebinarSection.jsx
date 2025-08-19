@@ -69,7 +69,7 @@ const WebinarSection = ({ currentLanguage }) => {
           id: 1,
           title: "Mejores Prácticas de Implementación DHIS2 para Salud Chilena",
           description: "Visión general completa de implementaciones exitosas de DHIS2 en instalaciones de salud chilenas, con casos de estudio y lecciones aprendidas.",
-          presenter: "Dra. María González & Carlos Mendoza",
+          presenter: "PhD Felipe Aguilera Millacura & Carlos Mendoza",
           duration: "45 min",
           views: 2840,
           publishDate: "10 de Agosto, 2025",
